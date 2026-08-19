@@ -1,10 +1,10 @@
 {
   "name": "Webtoon",
   "version": "1.0.0",
-  "createdAt": "2026-08-19T09:59:46.398Z",
-  "lastVerified": "2026-08-19T09:59:46.398Z",
+  "createdAt": "2026-08-19T22:25:55.774Z",
+  "lastVerified": "2026-08-19T22:25:55.774Z",
   "baseUrl": "https://m.webtoons.com",
-  "generatedAt": "2026-08-19T09:59:46.398Z",
+  "generatedAt": "2026-08-19T22:25:55.774Z",
   "generator": "MANGA FASE 4",
   "endpoints": [
     "/api/health",
@@ -61,7 +61,7 @@
   },
   "sampleUrls": [],
   "health": {
-    "lastCheck": "2026-08-19T09:59:46.398Z",
+    "lastCheck": "2026-08-19T22:25:55.774Z",
     "status": "healthy",
     "fields": {}
   }
