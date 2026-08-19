@@ -1,0 +1,42 @@
+{
+  "card": "a._genre_title_a",
+  "title": [
+    "strong.title"
+  ],
+  "cover": [
+    "img"
+  ],
+  "link": [
+    "&"
+  ],
+  "author": [
+    "div.author_area"
+  ],
+  "artist": [],
+  "status": [],
+  "synopsis": [
+    "p.summary"
+  ],
+  "genres": [
+    "a[href*=\"genre\"]",
+    "a[href*=\"tag\"]",
+    "a[href*=\"category\"]",
+    "a[href*=\"genres\"]"
+  ],
+  "chapter": "li._episodeItem",
+  "chapterUrl": "",
+  "chapterNumber": [
+    "a.detail_list_link"
+  ],
+  "chapterTitle": [
+    "a.detail_list_link"
+  ],
+  "pages": [
+    "div#_imageList img"
+  ],
+  "popularUrl": "https://www.webtoons.com/en/?page={page}&limit={limit}",
+  "latestUrl": "https://www.webtoons.com/en/?sort=latest&page={page}&limit={limit}",
+  "searchUrl": "https://m.webtoons.com/?s={q}",
+  "detailUrl": "",
+  "readerUrl": ""
+}
